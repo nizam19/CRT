@@ -1,0 +1,32 @@
+Questions
+1 - sort array elements by frequency
+Ip - 2 5 2 8 5 6 8 8
+Op - 8 8 8 2 2 5 5 6
+
+2 - Find product of odd number in array 
+Ip - 5
+	 12 19 20 117 9
+Op - 19 1*9=9 117 1*1*7=7 9 9*1=9
+Ip - 2
+	 1235 17
+Op - 1235 1*2*3*5=30 17 1*7=7
+
+3 - Find frequency
+Ip - hello i am adam from hyderabad
+Op - size[1]:1
+	 size[2]:1
+	 size[3]:0
+ 	 size[4]:2
+	 size[5]:1
+	 size[6]:0
+	 size[7]:0
+	 size[8]:0
+	 size[9]:1
+	 
+4 - Generate permutations
+	ABC
+	1 - ABC ACB BAC BCA CBA CAB (all perm)
+	2 - BAC CAB (perm with a in middle)
+	3 - ABC CBA (perm with b in middle)
+	4 - ACB BCA (perm with c in middle)
+	
